@@ -1,0 +1,46 @@
+_repo: The-New-Forest-Its-History-and-Its-Scenery_54144
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Linton, W. J. (William James)
+    aliases:
+    - Linton, William James
+    - Honeysuckle, C. (Christopher)
+    - Brown, Hattie
+    - Reid, Abel
+    - Spartacus
+    - Broome, A. N.
+    birthdate: 1812
+    deathdate: 1897
+    gutenberg_agent_id: '31337'
+    url: http://www.gutenberg.org/2009/agents/31337
+    wikipedia: http://en.wikipedia.org/wiki/William_James_Linton
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+creator:
+  author:
+    agent_name: Wise, John R. (John Richard)
+    birthdate: 1831
+    deathdate: 1890
+    gutenberg_agent_id: '47728'
+    url: http://www.gutenberg.org/2009/agents/47728
+description: ''
+gutenberg_issued: '2017-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'New Forest (England : Forest)'
+- GITenberg
+title: 'The New Forest: Its History and Its Scenery'
+url: http://www.gutenberg.org/ebooks/54144
